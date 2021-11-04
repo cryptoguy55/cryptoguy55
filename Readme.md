@@ -9,7 +9,7 @@
 - I am very familiar with ROR and Golang and several javascript frameworks.  
   
 
-- 🌱 I’m currently learning Blockchain and pancakeswap v2  
+- 🌱 I have good experience with Blockchain and pancakeswap v2  
   
 
 - ❓ Ask me about anything related to Ruby on Rail and React.js technologies  
