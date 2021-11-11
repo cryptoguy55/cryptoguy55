@@ -12,7 +12,7 @@
 - 🌱 I have good experience with Blockchain and pancakeswap v2  
   
 
-- ❓ Ask me about anything related to Ruby on Rail and React.js technologies  
+- ❓ Ask me about anything related to Ruby on Rail, Golang and React.js technologies  
   
 
 - ⚡ Fun fact: I like reading a book and climbing  
