@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm a full-stack developer 👨‍💻 working remotely since 2017 🚀</div>  
+### <div align="center">I'm a full-stack Blockchain developer 👨‍💻 working remotely since 2017 🚀</div>  
   
 
 - I am very familiar with ROR and React.js.  
@@ -12,7 +12,7 @@
 - 🌱 I have good experience with Blockchain and pancakeswap v2  
   
 
-- ❓ Ask me about anything related to Ruby on Rail, Golang and React.js technologies  
+- ❓ Ask me about anything related to smart contract, web3.js and React.js technologies  
   
 
 - ⚡ Fun fact: I like reading a book and climbing  
