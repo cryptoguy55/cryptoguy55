@@ -6,7 +6,7 @@
 ### <div align="center">I'm a full-stack developer 👨‍💻 working remotely since 2017 🚀</div>  
   
 
-- I am very familiar with ROR and Golang and several javascript frameworks.  
+- I am very familiar with ROR and React.js.  
   
 
 - 🌱 I have good experience with Blockchain and pancakeswap v2  
