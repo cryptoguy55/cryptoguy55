@@ -6,10 +6,10 @@
 ### <div align="center">I'm a full-stack Blockchain developer 👨‍💻 working remotely since 2017 🚀</div>  
   
 
-- I am very familiar with ROR and React.js.  
+- I have developed several Defi, Dao, NFT project so far on Ethereum, Cardano, BSc, Solana.  
   
 
-- 🌱 I have good experience with Blockchain and pancakeswap v2  
+- 🌱 I am very fluent with Solidity, Plutus, Rust.   
   
 
 - ❓ Ask me about anything related to smart contract, web3.js and React.js technologies  
