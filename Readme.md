@@ -3,20 +3,30 @@
 </div>  
   
 
-### <div align="center">I'm a full-stack Blockchain developer 👨‍💻 working remotely since 2017 🚀</div>  
+### <div align="center">I'm a full-stack Web and Blockchain developer 👨‍💻 working remotely since 2017 🚀</div>  
   
 
-- I have developed several Defi, Dao, NFT project so far on Ethereum, Cardano, BSc, Solana.  
+- I have developed several Defi, Dao, NFT projects so far on Ethereum, Cardano, BSc, Solana.  
   
 
 - 🌱 I am very fluent with Solidity, Plutus, Rust.   
   
 
-- ❓ Ask me about anything related to smart contract, web3.js and React.js technologies  
+- ❓ Ask me about anything related to blockchain technology.
   
 
-- ⚡ Fun fact: I like reading a book and climbing  
   
+- I have Full-stack web developer 
+
+
+- 🌱 backend: Laravel, Node.js, ROR.   
+
+
+- ❓ frontend: React.js, Vue, Angular.  
+
+
+
+- ⚡ Fun fact: I like reading a book and climbing   
 
 <br/>  
 
