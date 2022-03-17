@@ -19,7 +19,7 @@
 - I have Full-stack web developer 
 
 
-- 🌱 backend: Laravel, Node.js, ROR.   
+- 🌱 backend: ROR.   
 
 
 - ❓ frontend: React.js, Vue, Angular.  
