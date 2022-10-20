@@ -1,4 +1,4 @@
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">❤️ A passionate software engineer ❤️ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cryptoguy55&label=Profile%20views&color=0e75b6&style=flat&" alt="cryptoguy55" /> </p>
 
@@ -21,10 +21,10 @@
 <a href="mailto:superdev5597@gmail.com" target="blank"><img align="center" src="https://pngroyale.com/wp-content/uploads/2021/11/Download-gmail-email-logo-png-1-1-768x555.png" alt="cryptoguy55" height="30" width="40" /></a>
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptoguy55&show_icons=true&locale=en&&theme=radical&hide_border=true" alt="cryptoguy55" /></p>
+<p style="display: flex; justify-content: space-around"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptoguy55&show_icons=true&locale=en&&theme=radical&hide_border=true" alt="cryptoguy55" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=cryptoguy55&show_icons=true&locale=en&theme=radical&hide_border=true" alt="cryptoguy55" /></p>
+<p style="display: flex; justify-content: space-around; flex-wrap: wrap">
+<img src="https://github-readme-stats.vercel.app/api?username=cryptoguy55&show_icons=true&locale=en&theme=radical&hide_border=true" alt="cryptoguy55" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptoguy55&&theme=radical&hide_border=true" alt="cryptoguy55" />
+</p>
 
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptoguy55&&theme=radical&hide_border=true" alt="cryptoguy55" /></p>
