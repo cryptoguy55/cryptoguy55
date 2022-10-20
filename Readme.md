@@ -23,8 +23,10 @@
 
 <p style="display: flex; justify-content: space-around"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptoguy55&show_icons=true&locale=en&&theme=radical&hide_border=true" alt="cryptoguy55" /></p>
 
-<p style="display: flex; justify-content: space-around; flex-wrap: wrap">
+<p align="left" style="display: flex; justify-content: space-around; flex-wrap: wrap">
 <img src="https://github-readme-stats.vercel.app/api?username=cryptoguy55&show_icons=true&locale=en&theme=radical&hide_border=true" alt="cryptoguy55" />
+</p>
+<p align="right"> 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptoguy55&&theme=radical&hide_border=true" alt="cryptoguy55" />
 </p>
 
