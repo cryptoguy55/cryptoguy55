@@ -21,14 +21,21 @@
 <a href="mailto:superdev5597@gmail.com" target="blank"><img align="center" src="https://pngroyale.com/wp-content/uploads/2021/11/Download-gmail-email-logo-png-1-1-768x555.png" alt="cryptoguy55" height="30" width="40" /></a>
 </p>
 
-<p style="display: flex; justify-content: space-around"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptoguy55&show_icons=true&locale=en&&theme=radical&hide_border=true" alt="cryptoguy55" /></p>
-
-<p align="left" style="display: flex; justify-content: space-around; flex-wrap: wrap">
-<img src="https://github-readme-stats.vercel.app/api?username=cryptoguy55&show_icons=true&locale=en&theme=radical&hide_border=true" alt="cryptoguy55" />
-</p>
-<p align="right"> 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptoguy55&&theme=radical&hide_border=true" alt="cryptoguy55" />
-</p>
+<div align="center">
+  <a href="https://github.com/cryptoguy55">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cryptoguy55&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoguy55&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
 <div align="center">
     <img src="https://raw.githubusercontent.com/cryptoguy55/cryptoguy55/output/github-contribution-grid-snake.svg" />
 </div>
