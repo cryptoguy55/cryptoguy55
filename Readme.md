@@ -30,7 +30,7 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptoguy55&&theme=radical&hide_border=true" alt="cryptoguy55" />
 </p>
 <div align="center">
-    ![Snake animation](https://github.com/cryptoguy55/cryptoguy55/blob/output/github-contribution-grid-snake.svg)
+    <img src="https://raw.githubusercontent.com/cryptoguy55/cryptoguy55/output/github-contribution-grid-snake.svg" />
 </div>
 
 
