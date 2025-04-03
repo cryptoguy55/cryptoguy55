@@ -23,7 +23,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 </div>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/cryptoguy55/cryptoguy55/output/github-contribution-grid-snake.svg" />
+    ![Snake animation](https://github.com/cryptoguy55/cryptoguy55/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
